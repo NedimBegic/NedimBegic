@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/r6CNTHb/github-Name.png"> </p>
 <h2 align="center">About Me</h2>
-<h3 align="center">I am hoping to work in a healthier community with the possibility of constant self-improvement and working on creative projects. I love to put commitment and passion into my work."If you never work more than you get paid, you will never get paid more than you work.!“ - some dude said that :smile:	 and I believe him.</h3>
+<h3 align="center">I am striving to work in a healthier community with the possibility of constant self-improvement and working on creative projects. I love to put commitment and passion into my work."If you never work more than you get paid, you will never get paid more than you work.!“ - some dude said that :smile:	 and I believe him.</h3>
 <i class="gsicon-twitter"></i>
 
 <h2 align="center">Connect with me:</h2>
